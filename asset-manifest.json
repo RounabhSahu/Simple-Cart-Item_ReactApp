@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple-Cart-Item_ReactApp/static/css/main.5c2c292c.css",
+    "main.js": "/Simple-Cart-Item_ReactApp/static/js/main.d777d6a1.js",
+    "index.html": "/Simple-Cart-Item_ReactApp/index.html",
+    "main.5c2c292c.css.map": "/Simple-Cart-Item_ReactApp/static/css/main.5c2c292c.css.map",
+    "main.d777d6a1.js.map": "/Simple-Cart-Item_ReactApp/static/js/main.d777d6a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c2c292c.css",
+    "static/js/main.d777d6a1.js"
+  ]
+}
